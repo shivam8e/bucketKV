@@ -48,4 +48,3 @@ To run the latency benchmarks yourself, activate the Python virtual environment 
 python benchmark.py
 ```
 *(Requires the `requests` library: `pip install -r requirements.txt`)*
-# bucketKV
