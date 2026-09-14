@@ -1,0 +1,16 @@
+# Python Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Compiled C Binaries
+server
+a.out
+*.o
+
+# Data Dumps and Logs
+*.json
+*.txt
+
+# OS Generated Files
+.DS_Store
